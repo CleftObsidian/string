@@ -23,5 +23,11 @@
     <ClInclude Include="atoi.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ReserveString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObStr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
